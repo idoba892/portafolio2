@@ -1,0 +1,120 @@
+@media print {
+    .about__title{
+        font-size: 38px;
+        font-family: 'Pacifico', cursive;
+        font-weight: 300px;
+        }
+        
+        .about__paragraph{
+           
+            font-family: 'Pacifico', cursive;
+           text-align: justify;
+           font-weight: 200;
+           font-size: 23px;
+          
+           
+        }
+        
+        
+        .about__container{
+            padding: 20px;
+            margin-left:10%;
+            flex-wrap: wrap;
+            width: 50%;
+           
+        }
+        
+        
+        .about{
+         
+            width: 100%;
+            background-color:azure;
+            height: 400px;
+          
+            
+            
+        
+        }
+}
+@media screen and (min-width: 768px) {
+.about__title{
+    font-size: 38px;
+    font-family: 'Pacifico', cursive;
+    font-weight: 300px;
+    }
+    
+    .about__paragraph{
+       
+        font-family: 'Pacifico', cursive;
+       text-align: justify;
+       font-weight: 200;
+       font-size: 23px;
+      
+       
+    }
+    
+    
+    .about__container{
+        padding: 20px;
+        margin-left:10%;
+        flex-wrap: wrap;
+        width: 50%;
+       
+    }
+    
+    
+    .about{
+     
+        width: 100%;
+        background-color:azure;
+        height: 400px;
+      
+        
+        
+    
+    }}
+
+    @media screen and (max-width: 767px) {
+
+
+        .about__title{
+            font-size: 18px;
+            font-family: 'Pacifico', cursive;
+            font-weight: 200px;
+            text-align: center;
+            width: 100%;
+            }
+            
+            .about__paragraph{
+               
+                font-family: 'Pacifico', cursive;
+               text-align: justify;
+               font-weight: 50;
+               font-size: 12px;
+              
+               
+            }
+            
+            
+            .about__container{
+                padding: 10px;
+                margin-left:10%;
+                
+                margin-right: 5%;
+               
+            }
+            
+            
+            .about{
+             
+                width: 100%;
+                background-color: azure;
+                height: 250px;
+            
+            }
+
+
+
+
+
+    }

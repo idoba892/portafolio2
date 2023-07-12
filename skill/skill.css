@@ -1,0 +1,179 @@
+
+@media print {
+
+
+    .skills__title{
+        font-size: 38px;
+        text-align: center;
+        
+    }
+    
+    
+    .skills{
+    
+        flex-direction: column;
+     
+        align-items: center;
+
+        margin-bottom: 100px;
+    }
+    
+    .skills__line{
+        display: flex;
+        justify-content: space-between;
+        
+    
+    }
+    
+    .skills__box{
+        border: 2px solid black;
+            height: 180px;
+            border-radius: 10px ;    
+            background-color: azure;
+            margin: 0 0 0 15px; 
+            width: 18%;
+    
+    
+    } 
+    .skills__box:hover{
+            border: 2px solid burlywood;
+            height: 180px;
+            border-radius: 10px ;    
+            background-color: aqua;
+            cursor: pointer;
+           
+    
+    } 
+    
+    .skill__lista{
+        flex-direction: column;
+            
+        padding: 85px 20px ;
+
+      
+        
+    }
+    
+    .skill__name {
+        margin: 5px 0 0 0 ;
+    }
+
+
+
+}
+
+
+
+@media screen and (min-width: 768px) {
+
+.skills__title{
+    font-size: 38px;
+    text-align: center;
+    
+}
+
+
+.skills{
+
+    flex-direction: column;
+ 
+    align-items: center;
+}
+
+.skills__line{
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+
+.skills__box{
+    border: 2px solid black;
+        height: 180px;
+        border-radius: 10px ;    
+        background-color: azure;
+        margin: 0 0 0 15px; 
+        width: 18%;
+
+
+} 
+.skills__box:hover{
+        border: 2px solid burlywood;
+        height: 180px;
+        border-radius: 10px ;    
+        background-color: aqua;
+        cursor: pointer;
+       
+
+} 
+
+.skill__lista{
+    flex-direction: column;
+        
+    padding: 85px 20px ;
+    
+}
+
+.skill__name {
+    margin: 5px 0 0 0 ;
+}
+}
+
+@media screen and (max-width: 767px) {
+    
+.skills__title{
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+
+.skills{
+
+    flex-direction: column;
+ 
+    align-items: center;
+}
+
+.skills__line{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    flex-wrap: wrap;
+    
+    
+
+}
+
+.skills__box{
+    border: 2px solid black;
+        height: 100px;
+        border-radius: 10px ;    
+        background-color: azure;
+        margin: 0 0 20px 5px; 
+        width: 45%;
+       
+
+
+} 
+.skills__box:hover{
+        border: 2px solid burlywood;
+        height: 100px;
+        border-radius: 10px ;    
+        background-color: aqua;
+        cursor: pointer;
+        
+       
+
+} 
+
+.skill__lista{
+    flex-direction: column;
+        
+    padding: 10px 13px ;
+    
+}
+
+.skill__name {
+    margin: 50px 0 0 50px ;
+}}

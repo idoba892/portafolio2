@@ -1,0 +1,196 @@
+
+@media print {
+
+    .title {
+        margin-bottom: 20px;
+        
+        
+        }
+        
+        .title__container{
+        
+        display: flex;
+        flex-direction: column;
+        
+        
+        }
+        
+        
+        .title__div {
+            display: flex;
+        
+            align-items: center;
+            flex-direction: row-reverse;
+           
+            margin: 0 0 0 20px;
+          
+          
+        }
+        .title__profile{
+        border-radius: 50%;
+        
+        width: 340px;
+        height: 340px;
+        margin-right: 10%;
+        
+        
+        }
+         
+        .title__bio {
+            font-size: 38px;
+           
+        }
+        
+        .title__subsection {
+            font-size: 15px;
+            font-weight: lighter;
+               
+        }
+        
+        .title__network {
+        
+        display: flex;
+        justify-content: space-between;
+        padding: 0px;
+        width: 45%;
+        flex-wrap: wrap;
+        
+           
+            
+        }
+
+}
+@media screen and (min-width: 768px) {
+.title {
+    margin-bottom: 20px;
+    
+    
+    }
+    
+    .title__container{
+    
+    display: flex;
+    flex-direction: column;
+    
+    
+    }
+    
+    
+    .title__div {
+        display: flex;
+    
+        align-items: center;
+        flex-direction: row-reverse;
+       
+        margin: 0 0 0 20px;
+      
+      
+    }
+    .title__profile{
+    border-radius: 50%;
+    
+    width: 340px;
+    height: 340px;
+    margin-right: 10%;
+    
+    
+    }
+     
+    .title__bio {
+        font-size: 38px;
+       
+    }
+    
+    .title__subsection {
+        font-size: 15px;
+        font-weight: lighter;
+           
+    }
+    
+    .title__network {
+    
+    display: flex;
+    justify-content: space-between;
+    padding: 0px;
+    width: 70%;
+       
+        
+    }
+}
+
+    @media screen and (max-width: 767px) {
+
+
+        .title {
+            margin-bottom: 10px;
+           
+            
+            }
+            
+            .title__container{
+            
+            display: flex;
+            flex-direction: column;
+            
+            
+            }
+            
+            
+            .title__div {
+                display: flex;
+            
+                align-items: center;
+                flex-direction: column;
+               
+               
+              
+              
+            }
+            .title__profile{
+            border-radius: 50%;
+           
+            width: 100px;
+            height: 100px;
+            align-items: center;
+            margin-right: 10%;
+            
+            
+            }
+             
+            .title__bio {
+                font-size: 18px;
+                font-family: 'pacifico',cursive;
+               
+                padding: 10px;
+               
+            }
+            
+            .title__subsection {
+                font-size: 12px;
+                font-weight: lighter;
+                text-align: justify;
+              
+                flex-wrap: wrap;
+                width: 90%;
+                   
+            }
+            
+            .title__network {
+            
+            display: flex;
+            justify-content: space-between;
+            padding: 0px;
+            width: 90%;
+            flex-wrap: wrap;
+            
+            margin: 10px 0px;
+            
+               
+                
+            }
+
+
+
+
+
+    }

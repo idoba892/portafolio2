@@ -1,0 +1,540 @@
+
+@media print {
+
+    .experience{
+
+        flex-direction: column;
+         align-items: center; 
+       
+        padding: 0px;
+    
+         
+     }
+    
+     .experience__section__title{
+         font-size: 38px;
+         text-align: center;
+     }
+    
+    
+     .experiencie__box{
+        
+        
+         border: 2px;
+        align-items: center;
+         border-radius: 5px ;
+         border-color: black;
+         background-color: azure;
+         margin-bottom: 100px;
+         width: 100%;
+        
+    
+        
+     }
+    
+     .experienci__box{
+        
+      
+       
+         border: 2px;
+        align-items: center;
+         border-radius: 5px ;
+         border-color: black;
+         background-color: azure;
+         margin-bottom: 100px;
+         width: 100%;
+         flex-direction: row-reverse;
+         justify-content: space-between;
+       
+     }
+    
+     .experiencee__img{
+       
+     padding: 0px  20px 0px 0px;
+    
+     }
+    
+    
+     .experiencia__botao--repo{
+        width: 30%;
+        padding: 5px;
+        background-color:cornflowerblue ;
+        border-radius: 5px;
+        color: #F5F5F5;
+        font-family: 'Pacifico', cursive; 
+        margin-bottom: 50px; 
+    
+       font-size: 10px;
+       box-sizing: border-box;
+       
+     }
+    
+     .experience__botao--demo{
+        width: 30%;
+        padding: 5px;
+        background-color:cornflowerblue ;
+        border-radius: 5px;
+        color: #F5F5F5;
+        font-family: 'Pacifico', cursive; 
+       
+    
+       font-size: 10px;
+       box-sizing: border-box;
+        margin-bottom: 50px;
+    
+     }
+    
+    
+     .experience__info{
+         padding: 0px  0px 0px 0px;
+    justify-content: space-between;
+     }
+    
+     
+     .experiencie_box{
+      
+        border: 2px;
+       align-items: center;
+        border-radius: 5px ;
+        border-color: black;
+        background-color: azure;
+        margin-bottom: 100px;
+        width: 100%;
+        flex-direction: row-reverse;
+        justify-content: space-between;
+    
+    }
+    
+    .experiencie_bo{ 
+    
+    display: flex;
+    border: 2px;
+    align-items: center;
+    border-radius: 5px ;
+    border-color: black;
+    background-color: azure;
+    margin-bottom: 100px;
+    width: 100%;
+    
+    
+    
+    }
+    
+    
+    
+    
+    .experience__info-container{ 
+    
+        padding: 0px  0px 0px 0px;
+     justify-content: space-between;
+    
+    }
+    
+    .experience__img{
+    
+        padding: 0px  20px 0px 0px;
+    
+        }
+    
+    
+        .experience_box{
+    
+            
+            border: 2px;
+           align-items: center;
+            border-radius: 5px ;
+            border-color: black;
+            background-color: azure;
+            margin-bottom: 100px;
+            width: 100%;
+            flex-direction: row-reverse;
+            justify-content: space-between;
+    
+        }
+    
+        .experience__infocontainer{
+    
+            padding: 0px  0px 0px 0px;
+            
+             
+        }
+    
+        .experienc__img{
+    
+            padding: 0px  0px 0px 0px;
+    
+            width: 60%;
+    
+        }
+
+
+
+}
+
+@media screen and (min-width: 768px) {
+.experience{
+
+    flex-direction: column;
+     align-items: center; 
+   
+    padding: 0px;
+
+     
+ }
+
+ .experience__section__title{
+     font-size: 38px;
+     text-align: center;
+ }
+
+
+ .experiencie__box{
+    
+     display: flex;
+     border: 2px;
+    align-items: center;
+     border-radius: 5px ;
+     border-color: black;
+     background-color: azure;
+     margin-bottom: 100px;
+     width: 100%;
+    
+
+    
+ }
+
+ .experienci__box{
+    
+  
+    display: flex;
+     border: 2px;
+    align-items: center;
+     border-radius: 5px ;
+     border-color: black;
+     background-color: azure;
+     margin-bottom: 100px;
+     width: 100%;
+     flex-direction: row-reverse;
+     justify-content: space-between;
+   
+ }
+
+ .experiencee__img{
+   
+ padding: 0px  20px 0px 0px;
+
+ }
+
+
+ .experiencia__botao--repo{
+    width: 30%;
+    padding: 5px;
+    background-color:cornflowerblue ;
+    border-radius: 5px;
+    color: #F5F5F5;
+    font-family: 'Pacifico', cursive; 
+    margin-bottom: 50px; 
+
+   font-size: 10px;
+   box-sizing: border-box;
+   
+ }
+
+ .experience__botao--demo{
+    width: 30%;
+    padding: 5px;
+    background-color:cornflowerblue ;
+    border-radius: 5px;
+    color: #F5F5F5;
+    font-family: 'Pacifico', cursive; 
+   
+
+   font-size: 10px;
+   box-sizing: border-box;
+    margin-bottom: 50px;
+
+ }
+
+
+ .experience__info{
+     padding: 0px  0px 0px 0px;
+justify-content: space-between;
+ }
+
+ 
+ .experiencie_box{
+    display: flex;
+    border: 2px;
+   align-items: center;
+    border-radius: 5px ;
+    border-color: black;
+    background-color: azure;
+    margin-bottom: 100px;
+    width: 100%;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+
+}
+
+.experiencie_bo{ 
+
+display: flex;
+border: 2px;
+align-items: center;
+border-radius: 5px ;
+border-color: black;
+background-color: azure;
+margin-bottom: 100px;
+width: 100%;
+
+
+
+}
+
+
+
+
+.experience__info-container{ 
+
+    padding: 0px  0px 0px 0px;
+ justify-content: space-between;
+
+}
+
+.experience__img{
+
+    padding: 0px  20px 0px 0px;
+
+    }
+
+
+    .experience_box{
+
+        display: flex;
+        border: 2px;
+       align-items: center;
+        border-radius: 5px ;
+        border-color: black;
+        background-color: azure;
+        margin-bottom: 100px;
+        width: 100%;
+        flex-direction: row-reverse;
+        justify-content: space-between;
+
+    }
+
+    .experience__infocontainer{
+
+        padding: 0px  0px 0px 0px;
+        
+         
+    }
+
+    .experienc__img{
+
+        padding: 0px  0px 0px 0px;
+
+        width: 60%;
+
+    }
+
+}
+
+@media screen and (max-width: 767px) {
+    .experience{
+
+        flex-direction: column;
+     
+        align-items: center;
+        width: 90%;
+       
+    
+         
+     }
+    
+     .experience__section__title{
+         font-size: 20px;
+         text-align: center;
+         margin-right: 10%;
+       
+     }
+    
+     .experience__title{
+        margin-right: 10%;
+        
+        font-size: 12px;
+       width: 90%;
+     }
+
+
+    
+     .experience__text{
+
+        width: 90%;
+        
+        font-size: 10px;
+     }
+    
+     .experiencie__box{
+        
+         
+         border: 2px;
+        align-items: center;
+         border-radius: 5px ;
+         border-color: black;
+         background-color: azure;
+         
+         width: 90%;
+        
+    
+        
+     }
+
+     
+
+     .experiencee__img{
+
+        height: 200px;
+        width: 250px;
+
+     }
+    
+     .experienci__box{
+        
+      
+        
+         border: 2px;
+        align-items: center;
+         border-radius: 5px ;
+         border-color: black;
+         background-color: azure;
+         margin-bottom: 20px;
+         width: 90%;
+         
+         justify-content: space-between;
+       
+     }
+    
+     .experiencee__img{
+       
+     padding: 0px  20px 0px 0px;
+    
+     }
+    
+     .experience__info{
+         padding: 0px  0px 0px 0px;
+    justify-content: space-between;
+     }
+
+
+
+     .experiencia__botao--repo{
+        width: 30%;
+        padding: 5px;
+        background-color:cornflowerblue ;
+        border-radius: 5px;
+        color: #F5F5F5;
+        font-family: 'Pacifico', cursive; 
+        margin-bottom: 50px; 
+   
+       font-size: 10px;
+       box-sizing: border-box;
+       
+     }
+    
+     .experience__botao--demo{
+        width: 30%;
+        padding: 5px;
+        background-color:cornflowerblue ;
+        border-radius: 5px;
+        color: #F5F5F5;
+        font-family: 'Pacifico', cursive; 
+        margin-bottom: 50px; 
+   
+       font-size: 10px;
+       box-sizing: border-box;
+        margin-bottom: 50px;
+
+     }
+
+
+    
+
+     .experiencie_box{
+       
+        border: 2px;
+       align-items: center;
+        border-radius: 5px ;
+        border-color: black;
+        background-color: azure;
+        margin-bottom: 50px;
+        width: 90%;
+       
+        justify-content: space-between;
+    
+    }
+    .experience__img{
+        height: 200px;
+        width: 250px;
+
+    }
+    .experiencie_bo{ 
+    
+ 
+    border: 2px;
+    align-items: center;
+    border-radius: 5px ;
+    border-color: black;
+    background-color: azure;
+    margin-bottom: 50px;
+    width: 100%;
+    
+    
+    
+    }
+    
+    
+    
+    
+    .experience__info-container{ 
+    
+        padding: 0px  0px 0px 0px;
+     justify-content: space-between;
+    
+    }
+    
+    
+    
+        .experience_box{
+    
+            
+            border: 2px;
+           align-items: center;
+            border-radius: 5px ;
+            border-color: black;
+            background-color: azure;
+            margin-bottom: 100px;
+            width: 100%;
+           
+            justify-content: space-between;
+    
+        }
+    
+        .experience__infocontainer{
+    
+            padding: 0px  0px 0px 0px;
+            
+             
+        }
+    
+        .experienc__img{
+    
+            height: 200px;
+        width: 250px;
+    
+        }
+
+    
+    
+    }
+    
